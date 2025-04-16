@@ -312,6 +312,7 @@ function switchTab(tab) {
 
 
 window.addEventListener("DOMContentLoaded", () => {
+  questions.push(...bcrData1, ...bcrData2, ...bcrData3, ...bcrData4);
   document.querySelectorAll(".summary-toggle").forEach(button => {
     button.addEventListener("click", () => {
       const content = button.nextElementSibling;
