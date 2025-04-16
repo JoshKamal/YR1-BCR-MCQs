@@ -1,7 +1,7 @@
 
 const questions = [];
 
-questions.push(...bcrData1, ...bcrData2);
+questions.push(...bcrData1);
 
 
 let currentQuestionIndex = 0;
