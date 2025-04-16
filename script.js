@@ -1,6 +1,6 @@
 
 const questions = [];
-questions.push(...bcrData1, ...bcrData2, ...bcrData3, ...bcrData4);
+questions.push(...bcrData1);
 
 
 
