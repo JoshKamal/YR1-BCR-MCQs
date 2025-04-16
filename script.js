@@ -1,5 +1,7 @@
 
+const questions = [];
 
+questions.push(...bcrData1, ...bcrData2, ...bcrData3, ...bcrData4);
 
 
 let currentQuestionIndex = 0;
