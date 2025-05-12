@@ -350,3 +350,5 @@ window.addEventListener("DOMContentLoaded", () => {
       const content = button.nextElementSibling;
       content.style.display = content.style.display === "block" ? "none" : "block";
     });
+  });
+});
